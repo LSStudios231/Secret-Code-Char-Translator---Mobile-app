@@ -40,4 +40,6 @@ Each cipher also includes a short informational screen explaining how it works.
 ## Notes
 This was my first project built with React Native and TypeScript and served as my introduction to cross-platform app development and mobile UX design.
 
+Game screenshots can be found in the images folder.
+
 
